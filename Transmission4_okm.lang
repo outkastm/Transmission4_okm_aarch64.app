@@ -1,0 +1,69 @@
+[de-de]
+name = "Transmission4_okm"
+auth = "Transmission4_okm"
+descript = "Bietet Transmission 4, einen schnellen, einfachen und kostenlosen BitTorrent-Client"
+
+[en-us]
+name = "Transmission4_okm"
+auth = "Transmission4_okm"
+descript = "Provide Transmission 4, a fast, easy, and free BitTorrent client"
+
+[es-es]
+name = "Transmission4_okm"
+auth = "Transmission4_okm"
+descript = "Proporciona Transmission 4, un cliente de BitTorrent rápido, fácil y gratuito"
+
+[fr-fr]
+name = "Transmission4_okm"
+auth = "Transmission4_okm"
+descript = "Fournit Transmission 4, un client BitTorrent rapide, facile et gratuit"
+
+[hu-hu]
+name = "Transmission4_okm"
+auth = "Transmission4_okm"
+descript = "A Transmission 4-et, egy gyors, egyszerű és ingyenes BitTorrent klienst biztosítja"
+
+[it-it]
+name = "Transmission4_okm"
+auth = "Transmission4_okm"
+descript = "Fornisce Transmission 4, un client BitTorrent veloce, facile e gratuito"
+
+[ja-jp]
+name = "Transmission4_okm"
+auth = "Transmission4_okm"
+descript = "高速で簡単かつ無料のBitTorrentクライアント「Transmission 4」を提供します"
+
+[ko-kr]
+name = "Transmission4_okm"
+auth = "Transmission4_okm"
+descript = "빠르고 쉽고 무료인 BitTorrent 클라이언트 Transmission 4를 제공합니다"
+
+[pl-pl]
+name = "Transmission4_okm"
+auth = "Transmission4_okm"
+descript = "Dostarcza Transmission 4 — szybki, łatwy i darmowy klient BitTorrent"
+
+[pt-pt]
+name = "Transmission4_okm"
+auth = "Transmission4_okm"
+descript = "Fornece o Transmission 4, um cliente BitTorrent rápido, fácil e gratuito"
+
+[ru-ru]
+name = "Transmission4_okm"
+auth = "Transmission4_okm"
+descript = "Предоставляет Transmission 4 — быстрый, простой и бесплатный BitTorrent-клиент"
+
+[tr-tr]
+name = "Transmission4_okm"
+auth = "Transmission4_okm"
+descript = "Hızlı, kolay ve ücretsiz bir BitTorrent istemcisi olan Transmission 4'ü sağlar"
+
+[zh-cn]
+name = "Transmission4_okm"
+auth = "Transmission4_okm"
+descript = "提供 Transmission 4：一款快速、简单且免费的 BitTorrent 客户端"
+
+[zh-hk]
+name = "Transmission4_okm"
+auth = "Transmission4_okm"
+descript = "提供 Transmission 4：一款快速、簡單且免費的 BitTorrent 客戶端"
